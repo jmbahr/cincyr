@@ -1,0 +1,13 @@
+Package: cincyr
+Type: Package
+Title: Make it simple to query common databases from the City of Cincinnati
+Version: 0.1.0
+Author: Joe Bahr
+Maintainer: Joe Bahr <jbahr@alumni.nd.edut>
+Description: The process of importing data from the City of Cincinnati can be tedious when
+    only leveraging the RSocrata package. cincyr aims to abstract away some of the intricacies
+    required to effectively query common databases from the City.
+License: 3.5.3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
